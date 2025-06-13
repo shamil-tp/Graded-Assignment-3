@@ -87,7 +87,7 @@
 }
 .all-content{
     width: 100%;
-    border: 10px solid blue;
+    /* border: 10px solid blue; */
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
